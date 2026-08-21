@@ -1,0 +1,6 @@
+{
+  "name": "تجهيز الطلبات",
+  "description": "تطبيق إدارة وعرض المنتجات وسلة التسوق وتجهيز الطلبات وإرسالها المباشر لمخزن التجهيز عبر واتساب مع إدارة المندوبين",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
